@@ -172,5 +172,13 @@ sphinx_*/
 abi_gki_protected_exports
 all_kmi_symbols
 
+# Out of the tree drivers
+drivers/staging/rtl8188eus/
+drivers/staging/rtl8188fu/
+drivers/staging/rtl8192eu/
+drivers/staging/rtl8812au/
+drivers/staging/rtl88x2bu/
+
+
 # Object directory
 out/
